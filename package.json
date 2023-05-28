@@ -1,0 +1,26 @@
+{
+  "name": "pict-chance",
+  "version": "1.0.0",
+  "description": "Chance library random function goodness, packaged for pict templates.",
+  "main": "source/Pict-Service-Chance.js",
+  "dependencies": {
+    "chance": "^1.1.11",
+    "fable-serviceproviderbase": "^3.0.5"
+  },
+  "devDependencies": {
+    "quackage": "^1.0.6"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevenvelozo/pict-chance.git"
+  },
+  "author": "steven velozo <steven@velozo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevenvelozo/pict-chance/issues"
+  },
+  "homepage": "https://github.com/stevenvelozo/pict-chance#readme"
+}
